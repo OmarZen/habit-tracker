@@ -1,9 +1,3 @@
-# habit_tracker_hive
-
-**Habit Tracker App**:
-
----
-
 # Habit Tracker App
 
 A Flutter-based application designed to help users track and visualize their daily habits
@@ -33,7 +27,7 @@ over time with a visually appealing heatmap.
 
 ## Demo Video
 
-<video src="demo-app.mp4" controls></video>
+https://github.com/user-attachments/assets/8bce9509-2ae7-42ec-8663-138e629261bb
 
 ## Installation
 
