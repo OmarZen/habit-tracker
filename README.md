@@ -33,7 +33,7 @@ over time with a visually appealing heatmap.
 
 ## Demo Video
 
-![Demo Video](demo-app.mp4)
+<video src="demo-app.mp4" controls></video>
 
 ## Installation
 
